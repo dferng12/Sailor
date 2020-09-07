@@ -1,4 +1,4 @@
-module github.com/dferng12/sailor
+module github.com/litios/sailor
 
 go 1.13
 
